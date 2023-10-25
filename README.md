@@ -8,7 +8,7 @@ Evgeii Golovin  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 тема:
 > «Исследование оттока клиентов мобильного оператора - применение снижения размерности»
 
-![иллюстрация pca из моего скрипта](/crs/templates/pca_1.png)
+![иллюстрация pca из моего скрипта](/crs/templates/pca_1.png )
 
 Предлагается применить PCA к трехмерным данным по оттоку (/data/client_segmentation.csv). В файле содержится информация о клиентах оператора: как изменилось потребление услуг оператора за два месяца:
 
@@ -79,4 +79,4 @@ Evgeii Golovin  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 ## Исполнитель проекта
 
 - [Евгений Головин]([golovin1410@gmail.com](mailto:golovin1410@gmail.com)) — DataScientist - student
-![логотип Skillbox](/crs/templates/Skillbox_logo.svg.png)
+![логотип Skillbox](/crs/templates/Skillbox_logo.svg.png )
