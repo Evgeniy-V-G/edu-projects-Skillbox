@@ -41,7 +41,7 @@ Evgeii Golovin  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 - [x] dorian_grey.png (исходное изображение для сжатия)
 - [x] output_conda.png и output_vscode.png (картинки для сравнения версий sklearn) 
 
-Запуск - для перезапуска отткрыть jupyter notebook **notebooks/Dim_reduction_on_clients_churn_and_image_compression.ipynb** в клонированном репозитории.
+Запуск - для перезапуска открыть jupyter notebook **notebooks/Dim_reduction_on_clients_churn_and_image_compression.ipynb** в клонированном репозитории.
 Для просмотра - достаточно html.
 
 ## Исходные условия
